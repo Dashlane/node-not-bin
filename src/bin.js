@@ -5,7 +5,7 @@ const childProcess = require('child_process');
 
 const child = childProcess.spawn(
     process.argv[2],
-    process.argv.slice(2), {
+    process.argv.slice(3), {
         stdio: 'inherit'
     }
 )
