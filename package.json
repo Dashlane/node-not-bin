@@ -1,0 +1,19 @@
+{
+  "name": "not-bin",
+  "version": "0.0.0",
+  "description": "Invert the exit code of a process",
+  "bin": "src/bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Dashlane/node-not-bin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dashlane/node-not-bin/issues"
+  },
+  "homepage": "https://github.com/Dashlane/node-not-bin#readme"
+}
