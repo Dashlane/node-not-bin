@@ -1,6 +1,6 @@
 {
   "name": "not-bin",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Invert the exit code of a process",
   "bin": "src/bin.js",
   "scripts": {
